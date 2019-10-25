@@ -4,7 +4,7 @@
  *
  * See COPYING.txt for license details.
  */
-namespace Faonni\SalesSequence\Model\ResourceModel\Profile;
+namespace Gfe\SalesSequence\Model\ResourceModel\Profile;
 
 use Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection;
 use Magento\SalesSequence\Model\ResourceModel\Profile as ProfileResource;

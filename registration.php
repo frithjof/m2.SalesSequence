@@ -8,6 +8,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'Faonni_SalesSequence',
+    'Gfe_SalesSequence',
     __DIR__
 );

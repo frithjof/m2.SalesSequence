@@ -4,7 +4,7 @@
  *
  * See COPYING.txt for license details.
  */
-namespace Faonni\SalesSequence\Block\Adminhtml;
+namespace Gfe\SalesSequence\Block\Adminhtml;
 
 use Magento\Backend\Block\Widget\Grid\Container;
 

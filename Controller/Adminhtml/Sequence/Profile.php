@@ -4,7 +4,7 @@
  *
  * See COPYING.txt for license details.
  */
-namespace Faonni\SalesSequence\Controller\Adminhtml\Sequence;
+namespace Gfe\SalesSequence\Controller\Adminhtml\Sequence;
 
 use Magento\Framework\Registry;
 use Magento\Framework\View\Result\PageFactory;

@@ -4,7 +4,7 @@
  *
  * See COPYING.txt for license details.
  */
-namespace Faonni\SalesSequence\Block\Adminhtml\Profile;
+namespace Gfe\SalesSequence\Block\Adminhtml\Profile;
 
 use Magento\Backend\Block\Widget\Form\Container;
 

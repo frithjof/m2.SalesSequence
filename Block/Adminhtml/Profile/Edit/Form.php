@@ -4,7 +4,7 @@
  *
  * See COPYING.txt for license details.
  */
-namespace Faonni\SalesSequence\Block\Adminhtml\Profile\Edit;
+namespace Gfe\SalesSequence\Block\Adminhtml\Profile\Edit;
 
 use Magento\Framework\Registry;
 use Magento\Framework\Data\FormFactory;

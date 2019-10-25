@@ -4,7 +4,7 @@
  *
  * See COPYING.txt for license details.
  */
-namespace Faonni\SalesSequence\Plugin\SalesSequence\Model;
+namespace Gfe\SalesSequence\Plugin\SalesSequence\Model;
 
 use Magento\Framework\DB\Sequence\SequenceInterface;
 use Magento\SalesSequence\Model\ResourceModel\Meta as ResourceSequenceMeta;

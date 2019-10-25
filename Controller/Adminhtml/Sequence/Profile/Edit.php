@@ -4,7 +4,7 @@
  *
  * See COPYING.txt for license details.
  */
-namespace Faonni\SalesSequence\Controller\Adminhtml\Sequence\Profile;
+namespace Gfe\SalesSequence\Controller\Adminhtml\Sequence\Profile;
 
 use Faonni\SalesSequence\Controller\Adminhtml\Sequence\Profile as AbstractController;
 

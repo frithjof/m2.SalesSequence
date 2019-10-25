@@ -4,7 +4,7 @@
  *
  * See COPYING.txt for license details.
  */
-namespace Faonni\SalesSequence\Block\Adminhtml\Profile\Grid\Options;
+namespace Gfe\SalesSequence\Block\Adminhtml\Profile\Grid\Options;
 
 use Magento\Framework\Option\ArrayInterface as OptionInterface;
 use Magento\Store\Model\System\Store;
