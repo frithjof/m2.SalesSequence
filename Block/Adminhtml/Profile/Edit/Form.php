@@ -10,7 +10,7 @@ use Magento\Framework\Registry;
 use Magento\Framework\Data\FormFactory;
 use Magento\Backend\Block\Widget\Form\Generic as FormGeneric;
 use Magento\Backend\Block\Template\Context;
-use Faonni\SalesSequence\Block\Adminhtml\Profile\Grid\Options\StoreOptionHash;
+use Gfe\SalesSequence\Block\Adminhtml\Profile\Grid\Options\StoreOptionHash;
 
 /**
  * Profile form

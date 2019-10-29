@@ -1,5 +1,5 @@
 {
-    "name": "Gfe/module-sales-sequence",
+    "name": "gfe/module-sales-sequence",
     "description": "Extension change format IncrementID for orders, invoices, creditmemos and shipments.",
     "type": "magento2-module",
     "version": "2.0.2",

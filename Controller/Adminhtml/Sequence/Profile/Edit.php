@@ -6,7 +6,7 @@
  */
 namespace Gfe\SalesSequence\Controller\Adminhtml\Sequence\Profile;
 
-use Faonni\SalesSequence\Controller\Adminhtml\Sequence\Profile as AbstractController;
+use Gfe\SalesSequence\Controller\Adminhtml\Sequence\Profile as AbstractController;
 
 /**
  * Profile edit controller
