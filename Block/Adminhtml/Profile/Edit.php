@@ -24,7 +24,7 @@ class Edit extends Container
     {
         $this->_objectId = 'profile';
         $this->_controller = 'adminhtml_profile';
-        $this->_blockGroup = 'Faonni_SalesSequence';
+        $this->_blockGroup = 'Gfe_SalesSequence';
         $this->_mode = 'edit';
 
         parent::_construct();

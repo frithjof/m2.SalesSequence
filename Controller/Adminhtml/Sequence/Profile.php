@@ -100,7 +100,7 @@ abstract class Profile extends Action
     protected function _isAllowed()
     {
         return $this->_authorization->isAllowed(
-            'Faonni_Sequence::profile'
+            'Gfe_Sequence::profile'
         );
     }
 }

@@ -29,7 +29,7 @@ class Edit extends AbstractController
             /** @var \Magento\Backend\Model\View\Result\Page $resultPage */
             $resultPage = $this->resultPageFactory->create();
             $resultPage->setActiveMenu(
-                'Faonni_Sequence::profile'
+                'Gfe_Sequence::profile'
             );
             $resultPage->getConfig()->getTitle()->prepend(
                 __('Sequence Profiles')

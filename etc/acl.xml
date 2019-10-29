@@ -13,7 +13,7 @@
             <resource id="Magento_Backend::admin">
                 <resource id="Magento_Backend::stores">
                     <resource id="Magento_Backend::stores_settings">
-                        <resource id="Faonni_Sequence::profile"  title="Sequence Profiles" translate="title" sortOrder="41"/>
+                        <resource id="Gfe_Sequence::profile"  title="Sequence Profiles" translate="title" sortOrder="41"/>
                     </resource>
                 </resource>
             </resource>

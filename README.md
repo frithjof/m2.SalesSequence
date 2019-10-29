@@ -15,17 +15,17 @@ Magento CE(EE) 2.0.x, 2.1.x, 2.2.x
 2. Enter following commands to install module:
 
     ```bash
-    composer require faonni/module-sales-sequence
+    composer require Gfe/module-sales-sequence
     ```
    Wait while dependencies are updated.
    
 #### Manual Installation
    
-1. Create a folder {Magento root}/app/code/Faonni/SalesSequence
+1. Create a folder {Magento root}/app/code/Gfe/SalesSequence
 
 2. Download the corresponding [latest version](https://github.com/karliuka/m2.SalesSequence/releases)
 
-3. Copy the unzip content to the folder ({Magento root}/app/code/Faonni/SalesSequence)
+3. Copy the unzip content to the folder ({Magento root}/app/code/Gfe/SalesSequence)
 
 ### Completion of installation
 
@@ -58,7 +58,7 @@ This works only with modules defined as Composer packages.
 2. Enter following commands to remove database data:
 
     ```bash
-    php bin/magento module:uninstall -r Faonni_SalesSequence
+    php bin/magento module:uninstall -r Gfe_SalesSequence
   
 #### Remove Extension
     
@@ -67,7 +67,7 @@ This works only with modules defined as Composer packages.
 2. Enter following commands to remove:
 
     ```bash
-    composer remove faonni/module-sales-sequence
+    composer remove Gfe/module-sales-sequence
     ```
 
 ### Completion of uninstall
